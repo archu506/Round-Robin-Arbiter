@@ -26,6 +26,6 @@ The arbiter selects a requester based on the current priority. After granting ac
 A Verilog testbench is used to simulate request and grant behavior and evaluate the arbitration logic.
 
 ## Author
-Satheesh Kumar M
+Archana M
 
-Integrated M.Tech Computer Science and Engineering
+BE ECE
